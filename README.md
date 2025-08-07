@@ -14,7 +14,7 @@ Sou um estudante da universidade Cruzeiro do Sul (Curso de Análise e Desenvolvi
  MY TOP HOBBIES
 | Classificação | HOBBIES | 
 |-----:|---------------| 
-| 1| JOGAR |   
+| 1| LER |   
 | 2| TREINAR | 
 | 3| COZINHAR |
 
